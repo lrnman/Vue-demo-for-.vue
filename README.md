@@ -29,7 +29,7 @@ npm start
 - 模板 https://cn.vuejs.org/v2/guide/syntax.html
 - 插件 https://cn.vuejs.org/v2/guide/plugins.html
 - 生命周期 
- - beforeMount https://cn.vuejs.org/v2/guide/instance.html#%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%9B%BE%E7%A4%BA
+- - beforeMount https://cn.vuejs.org/v2/guide/instance.html#%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%9B%BE%E7%A4%BA
 - 组件 https://cn.vuejs.org/v2/guide/components.html
 - 单文件组件 https://cn.vuejs.org/v2/guide/single-file-components.html
 - 指令 https://cn.vuejs.org/v2/guide/syntax.html#%E6%8C%87%E4%BB%A4
@@ -61,9 +61,9 @@ npm start
 - 动态路由匹配 https://router.vuejs.org/zh-cn/essentials/dynamic-matching.html
 - 动态路由高级匹配模式 https://router.vuejs.org/zh-cn/essentials/dynamic-matching.html
 - 导航守卫 https://router.vuejs.org/zh-cn/advanced/navigation-guards.html
- - beforeEach
- - beforeRouteLeave
- - beforeRouteEnter
+- - beforeEach
+- - beforeRouteLeave
+- - beforeRouteEnter
 - 编程式的导航 https://router.vuejs.org/zh-cn/essentials/navigation.html
 - 
 
@@ -80,6 +80,6 @@ npm start
 ### 其他
 - bootstrap css 的导入
 - lodash.js
- - 导入
- - debounce
+- - 导入
+- - debounce
 - 
